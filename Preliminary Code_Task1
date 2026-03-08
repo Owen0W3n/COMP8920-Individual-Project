@@ -10,7 +10,7 @@ def menu_display():
     print("0. Exit")
 
 
-def get_keyboard_layout(choice):
+def get_keyboard_layout(self.choice):
 
     keyboards = {
 

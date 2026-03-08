@@ -1,1 +1,85 @@
-print("Hello World!")
+def menu_display():
+    print("\n==== Custom Keyboard Builder ====")
+    print("Choose a keyboard layout:")
+    print("1. 60% Keyboard")
+    print("2. 65% Keyboard")
+    print("3. 75% Keyboard")
+    print("4. 80% Keyboard (TKL)")
+    print("5. 98% Keyboard")
+    print("6. 100% Keyboard (Full Size)")
+    print("0. Exit")
+
+
+def get_keyboard_layout(choice):
+
+    keyboards = {
+
+        "1": {
+            "name": "60% Keyboard",
+            "keys": [
+                "Alphanumeric keys",
+                "Modifiers (Shift, Ctrl, Alt)",
+                "No Function Row",
+                "No Arrow Keys",
+                "No Numpad"
+            ]
+        },
+
+        "2": {
+            "name": "65% Keyboard",
+            "keys": [
+                "Alphanumeric keys",
+                "Arrow Keys",
+                "Modifiers",
+                "No Function Row",
+                "No Numpad"
+            ]
+        },
+
+        "3": {
+            "name": "75% Keyboard",
+            "keys": [
+                "Alphanumeric keys",
+                "Function Row (F1-F12)",
+                "Arrow Keys",
+                "Navigation Keys",
+                "No Numpad"
+            ]
+        },
+
+        "4": {
+            "name": "80% Keyboard (TKL)",
+            "keys": [
+                "Alphanumeric keys",
+                "Function Row",
+                "Arrow Keys",
+                "Navigation Cluster",
+                "No Numpad"
+            ]
+        },
+
+        "5": {
+            "name": "98% Keyboard",
+            "keys": [
+                "Alphanumeric keys",
+                "Function Row",
+                "Arrow Keys",
+                "Navigation Keys",
+                "Integrated Numpad"
+            ]
+        },
+
+        "6": {
+            "name": "100% Keyboard",
+            "keys": [
+                "Alphanumeric keys",
+                "Function Row",
+                "Arrow Keys",
+                "Navigation Cluster",
+                "Full Numpad"
+            ]
+        }
+
+    }
+
+    return keyboards.get(choice)

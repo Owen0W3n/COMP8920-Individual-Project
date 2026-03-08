@@ -1,6 +1,13 @@
 # COMP8920-Individual-Project
 COMP8920 individual project (Including both Task 1 and 2)
+
+
+
+
+
 Task 1: Keyboard-Building Application
+
+
          Introduction:
          This keyboard-building application will achieve several functional requirements and user cases:
            1. Allows users to register/login
@@ -10,6 +17,7 @@ Task 1: Keyboard-Building Application
            5. Calculate the total amount of the purchase
 
 Task 2: 
+
         Chosen data structure: Heap
         Chosen algorithm: Heap sort
            

@@ -8,13 +8,18 @@ COMP8920 individual project (Including both Task 1 and 2)
 Task 1: Keyboard-Building Application
 
 
-         Introduction:
-         This keyboard-building application will achieve several functional requirements and user cases:
-           1. Allows users to register/login
-           2. Clean UI that displays different merchants
-           3. Allows users to choose the preferred layout and the exact product
-           4. Check whether the inventory is enough or not, or if it has sold out
-           5. Calculate the total amount of the purchase
+Keyboard Store Application
+
+Environmental Setup:
+1. Make sure all the module files are put in one runnable folder
+2. Make sure all the libraries in each modules are imported successfully
+3. Vs Code is the suggested IDE to run the application, windows built-in terminal is also viable.
+
+User Guideline:
+1. Put all .py files in the same folder.
+2. Open terminal or any IDE in that folder.
+3. File to be run:
+         main.py
 
 Task 2: 
 

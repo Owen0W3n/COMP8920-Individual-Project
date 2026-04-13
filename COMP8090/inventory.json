@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Keyboard Kit",
+        "name": "Mode Envoy (Mirage/ Copper)",
+        "price": 195.0,
+        "quantity": 8,
+        "layout": "65%"
+    },
+    {
+        "category": "Keyboard Kit",
+        "name": "TOFU 60 3.0 (Anodized Black)",
+        "price": 161.0,
+        "quantity": 8,
+        "layout": "60%"
+    },
+    {
+        "category": "Keyboard Kit",
+        "name": "HOLY 80 (E-White)",
+        "price": 172.0,
+        "quantity": 6,
+        "layout": "80%"
+    },
+    {
+        "category": "Keycaps",
+        "name": "PBT Black on White",
+        "price": 49.9,
+        "quantity": 14,
+        "profile": "Cherry"
+    },
+    {
+        "category": "Keycaps",
+        "name": "GMK Blue Samurai Clone",
+        "price": 59.9,
+        "quantity": 11,
+        "profile": "OEM"
+    },
+    {
+        "category": "Keycaps",
+        "name": "XDA Matcha Set",
+        "price": 39.9,
+        "quantity": 9,
+        "profile": "XDA"
+    },
+    {
+        "category": "Switches",
+        "name": "Gateron Milky Yellow",
+        "price": 24.9,
+        "quantity": 30,
+        "switch_type": "Linear"
+    },
+    {
+        "category": "Switches",
+        "name": "Boba U4T",
+        "price": 39.9,
+        "quantity": 19,
+        "switch_type": "Tactile"
+    },
+    {
+        "category": "Switches",
+        "name": "Y-3",
+        "price": 34.9,
+        "quantity": 17,
+        "switch_type": "Linear"
+    },
+    {
+        "category": "Keyboard Kit",
+        "name": "Rainy 75",
+        "price": 89.0,
+        "quantity": 39,
+        "layout": "75%"
+    },
+    {
+        "category": "Switches",
+        "name": "Gateron Ink Black V2",
+        "price": 34.99,
+        "quantity": 101,
+        "switch_type": "linear"
+    },
+    {
+        "category": "Keycaps",
+        "name": "GMK KAIJU",
+        "price": 149.0,
+        "quantity": 5,
+        "profile": "Cherry"
+    }
+]

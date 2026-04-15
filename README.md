@@ -30,4 +30,6 @@ User Guideline:
 3. File to be run:
             Tak2_implementation.py
 
+Introduction Video: https://drive.google.com/file/d/1gkKO7-ytOVpNLJaIrdDD0xoXem0EdgIv/view?usp=sharing
+
            

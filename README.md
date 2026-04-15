@@ -24,7 +24,10 @@ User Guideline:
 Introduction Video: https://drive.google.com/file/d/1a8vHxNjZaMvY-wITyJg0HWKJDoFZmi1V/view?usp=sharing
 
 Task 2: 
+User Guideline:
+1. Open a terminal or any IDE (e.g VS code)
+2. Run the file on the terminal or IDE
+3. File to be run:
+            Tak2_implementation.py
 
-        Chosen data structure: Heap
-        Chosen algorithm: Heap sort
            

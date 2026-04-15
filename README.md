@@ -21,6 +21,8 @@ User Guideline:
 3. File to be run:
          main.py
 
+Introduction Video: https://drive.google.com/file/d/1a8vHxNjZaMvY-wITyJg0HWKJDoFZmi1V/view?usp=sharing
+
 Task 2: 
 
         Chosen data structure: Heap
